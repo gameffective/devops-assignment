@@ -11,7 +11,7 @@ namespace HelloWorldWebApp.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            return Ok("Hello World");
+            return Ok("Congratulations, it works!");
         }
     }
 }
