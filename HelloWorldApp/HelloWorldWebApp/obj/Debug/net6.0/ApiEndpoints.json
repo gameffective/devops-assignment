@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HelloWorldWebApp.Controllers.HelloController",
+    "Method": "Get",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
